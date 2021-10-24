@@ -1,4 +1,4 @@
-# Last Landing
+## Last Landing
 
 ### What we do
 We provide a simple and unique service for people who want to ensure that any vital wishes or information that they possess finds 
